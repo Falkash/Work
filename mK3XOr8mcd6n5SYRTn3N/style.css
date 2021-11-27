@@ -1,0 +1,139 @@
+/*Begin here*/
+
+
+/* button-1 */
+.btn-1{
+    padding: 0 80px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: #00ABE7;
+}
+
+.btn-1:focus{
+   border: 1px solid #0070B4;
+   
+}
+
+.btn-1:hover{
+    background-color: #7FD5F3;
+}
+
+
+.btn-1:active{
+    background-color: #0070B4;
+}
+
+.btn-1:disabled{
+    background-color: #0070B4;
+}
+
+
+.text-btn-1{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+
+/* button-2 */
+
+.btn-2{
+    margin: 20px 0 0 0;
+    padding: 0 80px;
+    border-radius: 20px;
+    border: 1px solid #09ABE7;
+    color: #00ABE7 ;
+    background-color: white;
+    
+}
+
+.text-btn-2{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.btn-2:focus{
+    border: 1px solid #0070B4;
+}
+
+.btn-2:hover{
+    border: 1px solid #C0EAF8; 
+}
+
+.btn-2:active{
+    border: 1px solid #0070B4;
+    color: #0070B4;
+}
+
+.btn-2:disabled{
+    border: 1px solid #00000029;
+    color: #BFEAF9;
+}
+
+
+/* Button-2 */
+
+.btn-3{
+    margin: 20px 0 0 0;
+    padding: 0 80px;
+    border-radius: 20px;
+    border: 1px solid #09ABE7;
+    color: #fff ;
+    background-color: #30AB5B
+}
+
+.text-btn-3{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+
+.btn-3:focus{
+  background-color: #30AB5B;
+}
+
+.btn-3:hover{
+    background-color: #97D5AC;
+}
+
+.btn-3:active{
+    background-color: #1B833F;
+}
+
+.btn-3:disabled{
+     background-color: #C9EAD5;
+}
+
+
+/* button 4 */
+
+.btn-4{
+    margin: 20px 0 0 0;
+    padding: 0 80px;
+    border-radius: 20px;
+    border: 1px solid #09ABE7;
+    color: #fff ;
+    background-color: #30AB5B
+}
+
+.text-btn-4{
+    font-size: 1rem;
+    font-weight: 600;
+}
+} 
+
+.btn-4:focus{
+
+}
+
+.btn-4:hover{
+
+}
+
+.btn-4:active{
+
+}
+
+.btn-4:disabled{
+
+}
